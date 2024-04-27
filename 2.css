@@ -1,0 +1,36 @@
+.na {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cr {
+    font-size: 19px;
+}
+
+body {
+    background-color: rgb(230,218,166 );
+    font-size: 19px;
+}
+
+.kl{
+    font-size: 19px;
+}
+
+.o {
+    font-weight: 700;
+
+}
+
+.a {
+    font-weight: 700;
+}
+
+.g {
+    font-weight: 700;
+}
+
+.w {
+    font-weight: 700;
+}
